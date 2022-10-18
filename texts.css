@@ -1,0 +1,42 @@
+h1,
+h2 {
+  font-family: 'Fraunces';
+}
+
+h1 {
+  color: hsl(212, 21%, 14%);
+  font-size: 33px;
+  margin-bottom: 28px;
+}
+
+h3,
+p {
+  font-family: 'Montserrat';
+  font-size: 14px;
+  color: hsl(228, 12%, 48%);
+}
+
+h3 {
+  margin: 35px 0px 29px 0px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+#main-content p {
+  margin-bottom: 40px;
+  font-weight: 500px;
+}
+
+#price h2,
+p {
+  display: inline-block;
+  color: hsl(158, 36%, 37%);
+}
+
+#price p {
+  text-decoration: line-through;
+  vertical-align: super;
+  margin-left: 20px;
+}
